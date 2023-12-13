@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @szczecin-github
+- 👀 I’m interested in c# programming
+- 🌱 I’m currently learning c#, java and mcdatapacks
+- 📫 How to reach me, please don't.
